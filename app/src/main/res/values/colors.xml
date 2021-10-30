@@ -12,5 +12,9 @@
     <color name="brown">#634D3A</color>
     <color name="light_orange">#D58966</color>
     <color name="grey">#3C3C3C</color>
+    <color name="blue">#3F51B5</color>
+    <color name="red">#B53F49</color>
+
+
 
 </resources>
